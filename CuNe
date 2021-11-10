@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Freozzy/AntiHackDelete/main/Skywars", true))()
+wait(1)
+game.workspace.Borders.InvisibleBorder:remove()
+wait(0.1)
+game.workspace.Lobby.KillPlates:remove()
